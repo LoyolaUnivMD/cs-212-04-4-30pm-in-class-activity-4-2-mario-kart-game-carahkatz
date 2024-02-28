@@ -1,1 +1,19 @@
-Test cases go here. 
+TEST CASE
+    Mario Kart!
+    
+    --Player One--
+    Name: Carah
+    Character: Shy Guy
+    Speed: 10
+    --Player Two--
+    Name: Collin
+    Character: Yoshi
+    Speed: 9
+    
+    Boosting Carah...
+    Whoosh! New speed: 30
+    30
+    
+    Boosting Collin...
+    Whoosh! New speed: 29
+    29
