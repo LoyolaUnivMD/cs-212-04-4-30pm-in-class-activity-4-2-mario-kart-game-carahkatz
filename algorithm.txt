@@ -1,1 +1,17 @@
-THINK before you code...
+Player class
+    Initialize needed variables
+    Create constructor
+        Name
+        Character
+        Speed
+    Boost method
+        sout Boosting
+        speed + 20
+        sout new speed
+    displayInfo method
+        sout info
+
+Game class
+    Construct players
+    Display info for both players
+    Boost both players
